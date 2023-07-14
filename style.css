@@ -271,9 +271,7 @@ section {
   width: 600px;
   height: 500px;
   padding: 75px 90px;
-  margin-left: 120px;
-  display: block;
-  position: relative;
+  margin-left: 10px;
 }
 
 .heading1 {
