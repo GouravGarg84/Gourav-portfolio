@@ -189,9 +189,6 @@ body {
 }
 
 .sub-title {
-  display: flex;
-  flex-direction: row;
-position: absolute;
   text-align: center;
   font-size: 60px;
   padding-bottom: 70px;
@@ -275,6 +272,8 @@ section {
   height: 500px;
   padding: 75px 90px;
   margin-left: 120px;
+  display: block;
+  position: relative;
 }
 
 .heading1 {
